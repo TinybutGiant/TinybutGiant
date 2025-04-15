@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TinybutGiant
 - 👀 I’m interested in developing small tools to improve our tough life.
-- 🌱 I’m currently learning industrial systems engineering PHD program, at ABD stages.
+- 🌱 I graduated from industrial systems engineering PHD program.
 - 💞️ I’m looking to collaborate on projects that benefit people, not those that steal money and energy from them..
 - 📫 How to reach me DM, gg3660@wayne.edu.
 
